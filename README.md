@@ -534,23 +534,23 @@ A curated list of awesome [remote working](https://en.wikipedia.org/wiki/Telecom
   1. [Floobits](https://floobits.com) - Remote pair programming with screen share. Integrates with Sublime, IntelliJ, Atom and others
   1. [Flowdock](https://www.flowdock.com/) – Browser-based group chat for teams. Integrates with GitHub, Jira, Jenkins etc.
   1. [Gather](https://gather.town/) - Gather is a video-calling space that lets multiple people hold separate conversations in parallel, walking in and out of those conversations just as easily as they would in real life.
-  1. [IRCCloud](https://www.irccloud.com) – Browser-based IRC client with permanent storage.
-  1. [Jitsi](https://jitsi.org) - Multi-platform open-source video conferencing
-  1. [Matrix](https://github.com/ResultadosDigitais/matrix) – Matrix is the online open-source workplace for distributed teams.
-  1. [Mumble](https://wiki.mumble.info/) Mumble is an open source voice chat software
-  1. [Precursor](https://precursorapp.com) - Simple prototyping & brainstorming web app with real-time collaboration.
-  1. [PukkaTeam](https://www.pukkateam.com) - Real team presence through regular automated selfies and one-click video calling
-  1. [Rocket.Chat](https://rocket.chat/) — The Ultimate Open Source WebChat Platform.
-  2. [Signal](https://signal.org/) - Encrypted, secure chat and video calls.
-  1. [Skype](https://www.skype.com/) – Video calls.
-  1. [Slack](https://slack.com/) – Text, voice, and video chat system with loads of integration options including [ScreenHero](https://screenhero.com), a real-time, HD screen sharing system for collaboration in teams
-  1. [Talky](https://talky.io/) — Truly simple video chat and screen sharing for groups
-  1. [TeamHub](https://teamhub.app/) — Realtime status and progress reporting directly inside your IDE
-  1. [Tips for immersive video calls](https://www.benkuhn.net/vc/) —     Tips for immersive video calls
-  1. [Twist](https://twist.com/) — A communications platform where long-form discussions and casual messaging live in harmony.
-  1. [Whereby](https://whereby.com) – Browser-based, plugin-less group video calls.
-  1. [Zoom](https://zoom.us) — High-quality group video and sharing screen, run on linux, record session and support telephone calls.
-  1. [Krisp](https://krisp.ai/) - Mute background noise in any communication app.
+  2. [GitLive](https://git.live/) - Extend Git with real-time collaborative superpowers 
+  3. [IRCCloud](https://www.irccloud.com) – Browser-based IRC client with permanent storage.
+  4. [Jitsi](https://jitsi.org) - Multi-platform open-source video conferencing
+  5. [Matrix](https://github.com/ResultadosDigitais/matrix) – Matrix is the online open-source workplace for distributed teams.
+  6. [Mumble](https://wiki.mumble.info/) Mumble is an open source voice chat software
+  7. [Precursor](https://precursorapp.com) - Simple prototyping & brainstorming web app with real-time collaboration.
+  8. [PukkaTeam](https://www.pukkateam.com) - Real team presence through regular automated selfies and one-click video calling
+  9. [Rocket.Chat](https://rocket.chat/) — The Ultimate Open Source WebChat Platform.
+  10. [Signal](https://signal.org/) - Encrypted, secure chat and video calls.
+  11. [Skype](https://www.skype.com/) – Video calls.
+  12. [Slack](https://slack.com/) – Text, voice, and video chat system with loads of integration options including [ScreenHero](https://screenhero.com), a real-time, HD screen sharing system for collaboration in teams
+  13. [Talky](https://talky.io/) — Truly simple video chat and screen sharing for groups
+  14. [Tips for immersive video calls](https://www.benkuhn.net/vc/) —     Tips for immersive video calls
+  15. [Twist](https://twist.com/) — A communications platform where long-form discussions and casual messaging live in harmony.
+  16. [Whereby](https://whereby.com) – Browser-based, plugin-less group video calls.
+  17. [Zoom](https://zoom.us) — High-quality group video and sharing screen, run on linux, record session and support telephone calls.
+  18. [Krisp](https://krisp.ai/) - Mute background noise in any communication app.
 
 #### Project Management
   1. [Asana](https://asana.com/) - Project management good for distributed teams.
